@@ -1,4 +1,4 @@
-ile.# Federated Learning with Conv-KAN for Medical Imaging
+# Federated Learning with Conv-KAN for Medical Imaging
 
 This repository contains the official implementation for the research paper, **"Federated Learning with Convolutional Kolmogorov-Arnold Network in Healthcare."** It provides a framework for training and evaluating both novel Conv-KAN architectures and standard CNNs in a simulated, privacy-preserving federated learning environment.
 
