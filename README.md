@@ -27,7 +27,7 @@ First, clone the repository and create a Conda environment from the provided `en
 git clone https://github.com/Artisme/ConvKAN
 cd ConvKAN
 conda env create -f environment.yml
-conda activate pfllib
+conda activate convkan
 ```
 
 ### 2\. Download and Set Up the Dataset (Manual)
