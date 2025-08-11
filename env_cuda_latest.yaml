@@ -1,4 +1,4 @@
-name: pfllib
+name: convkan
 channels:
   - pytorch
   - nvidia
