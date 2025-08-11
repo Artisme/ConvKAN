@@ -24,8 +24,8 @@ Follow these steps to set up the environment, download the data, and run the tra
 First, clone the repository and create a Conda environment from the provided `environment.yml` file.
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/Artisme/ConvKAN
+cd ConvKAN
 conda env create -f environment.yml
 conda activate pfllib
 ```
