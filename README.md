@@ -17,8 +17,6 @@ The primary goal of this project is to benchmark the performance of Convolutiona
 
 ## How to Run
 
-Follow these steps to set up the environment, download the data, and run the training simulations.
-
 ### 1\. Clone and Set Up the Environment
 
 First, clone the repository and create a Conda environment from the provided `environment.yml` file.
@@ -67,7 +65,7 @@ After setting up the raw images, you need to partition them into a federated dat
 
 ### 4\. Run a Training Simulation
 
-You are now ready to run the experiments. All training is launched from the `system` directory.
+All training is launched from the `system` directory.
 
   * **Navigate to the system directory**:
     ```bash
